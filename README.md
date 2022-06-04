@@ -22,4 +22,4 @@
 
 <br>
   
-![Snake animation](https://github.com/rafaballerini/rafaelfleury/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rafaelfleury/rafaelfleury/blob/output/github-contribution-grid-snake.svg)
