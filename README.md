@@ -1,11 +1,11 @@
 ### A curiosidade mata 🦝
 
 
-- 🌱 Estou atualmente aprendendo front-end(HTML, CSS e Js), linguagem C e Python
+- 🌱 Estou atualmente aprendendo front-end(HTML, CSS e Js), linguagem Java e banco de dados.
 
-- 🖥️ Sou estudante de Ciência da Computação na Pontífice Universidade Católica de Minas Gerais (PUC-MG)
+- 🖥️ Sou estudante de Ciência da Computação na Pontífice Universidade Católica de Minas Gerais (PUC-MG).
 
-- 🧑‍💻 Possuo conhecimento básico de estruturas condicionais, tipos de dados e repetição nas seguintes linguagens: C++, C# e Java
+- 🧑‍💻 Possuo conhecimento básico de estruturas condicionais, tipos de dados e repetição nas seguintes linguagens: C# e Python.
 
 
 <div align="center" display="flex">
