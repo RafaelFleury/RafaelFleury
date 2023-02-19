@@ -1,4 +1,4 @@
-### A curiosidade mata 🦝
+### Perfil desatualizado a Tempos. Volte depois 🦝
 
 
 - 🌱 Estou atualmente aprendendo front-end(HTML, CSS e Js), linguagem Java e banco de dados.
