@@ -7,12 +7,6 @@
 
 - 🧑‍💻 Possuo conhecimento básico de estruturas condicionais, tipos de dados e repetição nas seguintes linguagens: C# e Python.
 
-
-<div align="center" display="flex">
-  <a href="https://github.com/rafaelfleury">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelfleury&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelfleury&layout=compact&langs_count=7&theme=prussian"/>
-</div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -24,7 +18,3 @@
   <img align="center" alt="Rafa-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
-
-<br>
-
-![Snake animation](https://github.com/rafaelfleury/rafaelfleury/blob/output/github-contribution-grid-snake.svg)
