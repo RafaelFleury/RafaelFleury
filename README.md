@@ -10,12 +10,21 @@ Building AI-powered applications and exploring automation systems.
 
 ## 🚀 Projects
 
-### Personal Open Source
+### Personal Open Source Projects
 - 🤖 **[zo_computer_chat](https://github.com/RafaelFleury/zo_computer_chat)** - A powerful but simple chatbot interface that combines GLM-4.7 (via Z.AI) with Zo Computer's MCP server, giving the LLM access to 50+ cloud-based tools including file operations, third-party integrations, web browsing, and more.
 
 ### College Projects
 - ⚓ **[BatalhaNaval](https://github.com/RafaelFleury/BatalhaNaval)** - A Java Swing naval battle game with TCP/UDP communication and multithreading.
 - 🔥 **[heatSyncJava](https://github.com/RafaelFleury/heatSyncJava)** - A Java desktop application for monitoring system temperatures and controlling external cooling devices via Bluetooth.
+
+---
+
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-fleury-7a8a9825a/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/Rogue0114)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rfbcol@gmail.com)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat&logo=github&logoColor=white)](https://github.com/RafaelFleury)
 
 ---
 
