@@ -1,4 +1,4 @@
-### CS Student | Software Engineer
+## CS Student | Software Engineer
 
 Building AI-powered applications and exploring automation systems.
 
